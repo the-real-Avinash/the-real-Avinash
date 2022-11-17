@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Gavandhe</h1>
 <h3 align="center">Avid Frontend Learner</h3>
-<img width="400" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="gif">
+<img width="400" align="center" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-real-avinash&label=Profile%20views&color=0e75b6&style=flat" alt="the-real-avinash" /> </p>
 
