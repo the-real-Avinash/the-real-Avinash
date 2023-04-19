@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **avinashgavandhe1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1cRWhz99u6cfDrx9WKIQn8QUKCEFp-G6Kt5NDokCoAOE/edit?usp=sharing](https://docs.google.com/document/d/1cRWhz99u6cfDrx9WKIQn8QUKCEFp-G6Kt5NDokCoAOE/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1cRWhz99u6cfDrx9WKIQn8QUKCEFp-G6Kt5NDokCoAOE/edit?usp=sharing](https://drive.google.com/file/d/1T97_RGq3RQ2kQKorKqTpxSebGYG6YWYI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
